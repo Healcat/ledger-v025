@@ -1,0 +1,10 @@
+{
+  "name": "记账本 V025",
+  "short_name": "记账本",
+  "description": "个人记账本（单文件版，支持离线）",
+  "display": "standalone",
+  "start_url": "./",
+  "background_color": "#0f1419",
+  "theme_color": "#0f1419",
+  "icons": []
+}
